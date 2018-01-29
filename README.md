@@ -1,30 +1,9 @@
-Agency Jekyll theme
-====================
+# Ray's new webpage learning
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+## Things to do
 
-# How to use
+1. Get github accound setup
+2. Learn how to use github (basic)
+3. Install jekyll using tutorial [here](https://learn.cloudcannon.com/jekyll/install-jekyll-on-os-x/)
+4. Select Theme
 
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
